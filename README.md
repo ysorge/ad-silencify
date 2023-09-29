@@ -7,7 +7,7 @@ Silence Spotify ads under Linux. Whenever the script detects an advertisement th
 You just have to checkout the project to your device by using git. Open a terminal
 and enter the following command:
 
-`$ git clone https://gitlab.rrz.uni-hamburg.de/ifmeo/cruise-planner.git`
+`$ git clone https://github.com/ysorge/ad-silencify.git/`
 
 ## Usage
 
