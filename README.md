@@ -1,2 +1,2 @@
-# ad-silencify
-Silence Spotify ads under Linux
+# AdSilencify
+Silence Spotify ads under Linux.
